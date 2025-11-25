@@ -33,6 +33,3 @@ A written research task exploring key data analytics concepts and methodologies.
 - Microsoft SQL Server
 - Google BigQuery
 - Databricks
-
-
-GitHub
